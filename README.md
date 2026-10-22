@@ -1,6 +1,6 @@
 <div align="center">
 
-# Keras & TensorFlow learning project
+# 🧑‍🎓 Keras & TensorFlow learning project
 
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow&logoColor=white)
